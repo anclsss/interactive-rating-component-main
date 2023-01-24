@@ -44,7 +44,8 @@ Users should be able to:
 * if you close it, you can just rerun it again by simply opening this project and in type "npm run dev" in your IDE terminal (I use VS Code). Maybe this is common knowledge but it took me ages to figure this out lol. 😁 And type "o" (letter) in terminal to open your App.
 
 - To deploy React App on github pages:
-- not easy
+- not easy, having a lot of trouble
+- [this](https://dev.to/shashannkbawa/deploying-vite-app-to-github-pages-3ane)
 
 ## My process
 
