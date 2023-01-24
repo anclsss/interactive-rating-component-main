@@ -1,13 +1,13 @@
 # Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Installation](#installation)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -15,8 +15,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -29,85 +27,55 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-### Screenshot
-
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/anclsss/interactive-rating-component-main)
+- Live Site URL: [Add live site URL here](https://github.com/anclsss/interactive-rating-component-main)
+
+### Installation
+
+- Install node.js and [vite](https://vitejs.dev/guide/), on this link you have a guide but I'll walk you through it anyways:
+- npm create vite@latest
+- React
+- Javascript
+- projectName
+- follow the instructions and voila you are all set
+
+* if you close it, you can just rerun it again by simply opening this project and in type "npm run dev" in your IDE terminal (I use VS Code). Maybe this is common knowledge but it took me ages to figure this out lol. 😁 And type "o" (letter) in terminal to open your App.
+
+- To deploy React App on github pages:
+- not easy
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- HTML, CSS flexbox
+- [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/)
+- [Vite](https://vitejs.dev/guide/)
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+React states, passing information through props, and all of that through React forms. Trying to have a single source of thruth. I think it lacks the useEffect ??? My understanding is still very basic.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+This challenge was way harder than I expected. I guess I didn't understand React states the way I thought I did. The code is not perfect or the cleanest, but it works. It took me 3 days to do this and I got so angry and frustrated. I'll definetely go back to this and rewrite it better and more efficient. There is a lot of repetition.
+I need to organize the CSS file way better.
+And Javascript and myself need to get to know each other way better and eventually become friends.
+This doesn't sound very professional, but I'm just being honest. 😁
+For every aspiring future developer:
+IF I CAN DO THIS - SO CAN YOU - AND YOU CAN DO IT WAY BETTER!
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Scrimba - Learn React](https://scrimba.com/learn/learnreact) - This free course helped me so much. The instructor is really great and examples are reusable.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@anclsss](https://www.frontendmentor.io/profile/anclsss)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+To myself for not giving up. And Scrimba instructor Bob Ziroll for existing.
